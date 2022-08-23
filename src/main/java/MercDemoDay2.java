@@ -15,7 +15,7 @@ public class MercDemoDay2 extends HttpServlet {
 
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		resp.getWriter().print("MercDemoDay2 Versio1 for Java !\n");
+		resp.getWriter().print("MercDemo Day 2 Versio two for Java !\n");
 	}
 
 	public static void main(String[] args) throws Exception {
